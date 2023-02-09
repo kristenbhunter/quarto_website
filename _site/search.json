@@ -30,9 +30,9 @@
   {
     "objectID": "presentations.html",
     "href": "presentations.html",
-    "title": "Presentations and Blog Posts",
+    "title": "Presentations",
     "section": "",
-    "text": "Presentations\nConceptualizing experimental controls using the potential outcomes framework.\nPresented at UNSW, 2021; Harvard Institute for Quantitative Social Science, 2021; Harvard Quantitative biology seminar, 2020; Harvard guest lecture in experimental design course, 2020; SAMSI program on causal inference opening workshop (poster), 2019.\nInferring medication adherence using health outcomes with Bayesian state-space models.\nPresented at 3rd international conference on econometrics and statistics, 2019; Conference for women and statistics in data science (poster), 2019.\nUnderstanding negative controls in observational studies.\nPresented at guest lecture, Wellesley College, 2019\nCausal inference from treatment-control studies having a pseudo-factor with unknown assignment mechanism\nPresented at European Causal Inference Meeting, 2017\nAn inverse prediction problem\nPresented at Boston Bayesians Meetup, 2017\nHow to build your first neural network\n​​​​​​​Presented at R Ladies Melbourne, 2017\nPrincipal stratification\n​​​​​​​Presented at guest lecture, Wellesley College, 2016\nCausal inference in a study of infant mortality\n​​​​​​​Presented at Phillips Academy Andover, 2016"
+    "text": "A selection of presentations\n\nPower Under Multiplicity Project, 2022 (for RAND Causal Inference Symposium) https://github.com/kristenbhunter/presentations/blob/master/RAND2022/RAND2022.pdf\nIntroduction to Neural Networks, 2022 (for R Ladies Urmia) https://github.com/kristenbhunter/presentations/blob/master/RLadiesUrmia2022/nn.pdf\nExploring Controls, 2021 (for Harvard Institute of Quantiative Social Science) https://github.com/kristenbhunter/presentations/blob/master/IQSS2021/IQSS_Exploring_Controls.pdf"
   },
   {
     "objectID": "todo/presentations.html",

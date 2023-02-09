@@ -6,7 +6,6 @@ title: "Writings"
 
 # Blog posts
 
-- 10 Things to Know About Multisite or Block-Randomized Trials.  \emph{Evidence in Governance and Politics (EGAP) Methods Guides.} 2022.  <https://egap.org/resource/10-things-to-know-about-multisite-or-block-randomized-trials/>
-- So, you decided to write your article in R Markdown.  \emph{CARES Lab Blog.} 2022. <https://cares-blog.gse.harvard.edu/post/2022-09-01-r-markdown/>
-- Understanding Matching and Diff-and-Diff. \emph{CARES Lab Blog.} 2021. <https://cares-blog.gse.harvard.edu/post/understanding-matching-and-diff-and-diff/>
-
+-   10 Things to Know About Multisite or Block-Randomized Trials. \emph{Evidence in Governance and Politics (EGAP) Methods Guides.} 2022. <https://egap.org/resource/10-things-to-know-about-multisite-or-block-randomized-trials/>
+-   So, you decided to write your article in R Markdown. \emph{CARES Lab Blog.} 2022. <https://cares-blog.gse.harvard.edu/post/2022-09-01-r-markdown/>
+-   Understanding Matching and Diff-and-Diff. \emph{CARES Lab Blog.} 2021. <https://cares-blog.gse.harvard.edu/post/understanding-matching-and-diff-and-diff/>
