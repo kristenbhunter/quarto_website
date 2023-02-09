@@ -1,0 +1,13 @@
+---
+title: "Presentations"
+---
+
+# A selection of presentations
+
+- Power Under Multiplicity Project, 2022 (for RAND Causal Inference Symposium) <https://github.com/kristenbhunter/presentations/blob/master/RAND2022/RAND2022.pdf>
+
+- Introduction to Neural Networks, 2022 (for R Ladies Urmia)
+<https://github.com/kristenbhunter/presentations/blob/master/RLadiesUrmia2022/nn.pdf>
+
+- Exploring Controls, 2021 (for Harvard Institute of Quantiative Social Science)
+<https://github.com/kristenbhunter/presentations/blob/master/IQSS2021/IQSS_Exploring_Controls.pdf>

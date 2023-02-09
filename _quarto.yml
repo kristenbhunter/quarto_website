@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Kristen Hunter"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - teaching.qmd
+      - writings.qmd
+      - presentations.qmd
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/kristenbhunter
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/stats_hunter
+      - icon: google
+        aria-label: google scholar
+        href: https://scholar.google.com/citations?user=3Pp9rC8AAAAJ&hl=en&inst=7289110936595769722
+      - icon: linkedin
+        aria-label: linkedin
+        href: https://www.linkedin.com/in/kristenbhunter/
+      - icon: r-circle
+        aria-label: researchgate
+        href: https://www.researchgate.net/profile/Kristen-Hunter-3
+
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+---
+
+![](images/image3.jpg)
+
+# Harvard University Teaching Fellow
+
+-   Harvard Business Analytics Program: Foundations of Quantitative Analysis (3 terms)
+
+-   Computer Science 109b: Advanced Topics in Data Science
+
+-   Statistics 244: Linear and Generalized Linear Models (3 semesters)
+
+    -   Certificate of Distinction and Excellence in Teaching: 2019, 2020, 2021
+
+-   Statistics 186: Statistical Methods for Evaluating Causal Effects
+
+    -   Certificate of Distinction and Excellence in Teaching: 2017
+
+-   Statistics 149: Generalized Linear Models
+
+-   Statistics 139: Linear Models
+
+-   Statistics 98: Tutorial--Junior Year (2 semesters)
+
+    -   Certificate of Distinction and Excellence in Teaching: 2017
+

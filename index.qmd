@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+I am a Lecturer in Statistics and Data Science (Asst. Professor equivalent) at the University of New South Wales, Sydney.
+
+![](images/headshot.jpg)
