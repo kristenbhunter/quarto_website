@@ -4,7 +4,19 @@ title: "Teaching"
 
 ![](images/image3.jpg)
 
-# Harvard University Teaching Fellow
+# University of New South Wales
+
+Lecturer
+
+- DATA5002: Data Visualisation
+
+Tutor
+
+- MATH1041: Statistics for Life & Social Sciences
+
+# Harvard University
+
+Teaching Fellow
 
 -   Harvard Business Analytics Program: Foundations of Quantitative Analysis (3 terms)
 
@@ -25,4 +37,3 @@ title: "Teaching"
 -   Statistics 98: Tutorial--Junior Year (2 semesters)
 
     -   Certificate of Distinction and Excellence in Teaching: 2017
-

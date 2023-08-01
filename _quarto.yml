@@ -12,6 +12,7 @@ website:
       - teaching.qmd
       - writings.qmd
       - presentations.qmd
+      - software.qmd
     right:
       - icon: github
         aria-label: github

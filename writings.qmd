@@ -2,7 +2,7 @@
 title: "Writings"
 ---
 
-![](images/image4.jpg)
+![](images/image4.jpg){width=800}
 
 # Blog posts
 

@@ -8,7 +8,7 @@ title: "Research"
 
 My methodological expertise mainly lies is in causal inference: the design and analysis of experiments and observational studies. I am also interested in applied Bayesian analysis and statistical software. Applications of my research have included healthcare, genetics, education, energy, and basic science.
 
-My future research agenda is to apply causal inference methods to problems in environmental science and climate change. I am actively seeking projects in this area. If you would like to collaborate, please reach out. I am eager to work with both quantitative researchers and scientists, engineers, or policy makers who have problems where I can contribute statistical expertise.
+My future research agenda is to apply causal inference methods to problems in environmental science and climate change. I am actively seeking projects in this area. If you would like to collaborate, please reach out. I am eager to work with quantitative researchers, scientists, engineers, policy makers, or others who have problems where I can contribute statistical expertise.
 
 # Works in progress
 
@@ -33,5 +33,3 @@ My future research agenda is to apply causal inference methods to problems in en
 -   **K. Hunter**, M. Glickman, L. Campos. (2022). Inferring medication adherence from time-varying health measures. *Statistics in Medicine*, 41(12). <https://doi.org/10.1002/sim.9351>.
 
 -   L. Campos, M. Glickman, **K. Hunter**. (2021). Measuring effects of medication adherence on near-term time-varying health outcomes using marginal Bayesian dynamic linear models. *Biostatistics*, 22(3). [https://doi.org/10.1093/biostatistics/kxz059](https://doi.org/10.1093/biostatistics/kxz059%5D).
-
-

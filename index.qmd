@@ -2,6 +2,10 @@
 title: "Home"
 ---
 
-I am a Lecturer in Statistics and Data Science (Asst. Professor equivalent) at the University of New South Wales, Sydney.
+I am a Lecturer in Statistics and Data Science (US equivalent: Asst. Professor) at the University of New South Wales, Sydney.
 
-![](images/headshot.jpg)
+Contact: kristen.hunter \[at\] unsw.edu.au
+
+I am an applied and methodological statistician with particular expertise in causal inference. I am actively seeking collaborative projects related to environmental policy and climate change.
+
+![](images/headshot.jpg){width=800}

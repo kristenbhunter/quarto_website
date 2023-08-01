@@ -1,0 +1,20 @@
+---
+title: "Software"
+---
+
+![](images/image6.jpg){width=500 fig-align="center"}
+
+# PUMP
+
+The PUMP R package allows a user to estimate power for multi-level experiments with multiple outcomes.
+The package extends existing power calculation software to take into account multiple testing adjustments (such as Bonferroni or Benjamini-Hochberg adjustments, among others).
+It also estimates minimum detectable effect size (MDES) and sample size requirements.
+
+More information:
+
+-   PUMP is available on [CRAN](https://CRAN.R-project.org/package=PUMP).
+The CRAN site contains vignettes on using the package.
+- For source code and further details, see the [github site](https://github.com/MDRCNY/PUMP).
+- For a full package description, including a detailed technical appendix, see [arXiv](https://arxiv.org/abs/2112.15273).
+- For users not familiar with R, see the [shiny app](https://public.mdrc.org/pump/)
+- For a presentation about PUMP, see [these slides](https://github.com/kristenbhunter/presentations/tree/master/NCI2022).
