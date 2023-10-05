@@ -8,11 +8,8 @@ title: "Teaching"
 
 Lecturer
 
-- DATA5002: Data Visualisation
-
-Tutor
-
-- MATH1041: Statistics for Life & Social Sciences
+- DATA5002: Data Visualisation (2023 T2)
+- MATH1041: Statistics for Life & Social Sciences (2023 T3)
 
 # Harvard University
 
