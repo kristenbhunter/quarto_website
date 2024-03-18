@@ -16,13 +16,7 @@ My future research agenda is to apply causal inference methods to problems in en
 
 -   **K. Hunter**, J. Gagnon-Bartsch. Confounding and population stratification in genetics studies. *Work in progress*.
 
--   **K. Hunter**, J. Gagnon-Bartsch, T. Speed. Using estimated negative controls to improve inference in genetics experiments. *Work in progress*.
-
--   **K. Hunter**, C. Pattanayak, D. B. Rubin, E. Zell. Surveillance database design recommendations from a study of late-onset GBS. *Work in progress*.
-
 # Preprints
-
--   **K. Hunter**, L. Matrix, K. Porter. (2022). Power under multiplicity project (PUMP): Estimating power, minimum detectable effect size, and sample size when adjusting for multiple outcomes. *Preprint*. <https://arxiv.org/abs/2112.15273>.
 
 -   N. Pashley, **K. Hunter**, K. McKeough, T. Dasgupta, D. Rubin. (2022). Causal inference from treatment-control studies having an additional factor with unknown assignment mechanism. *Preprint*. <https://arxiv.org/abs/2202.03533>.
 
@@ -30,6 +24,10 @@ My future research agenda is to apply causal inference methods to problems in en
 
 # Publications
 
--   **K. Hunter**, M. Glickman, L. Campos. (2022). Inferring medication adherence from time-varying health measures. *Statistics in Medicine*, 41(12). <https://doi.org/10.1002/sim.9351>.
+- **K. Hunter**, L. Miratrix, K. Porter. (2024). PUMP: Estimating power, minimum detectable effect size, and sample size when adjusting for multiple outcomes in multi-level experiments. *Journal of Statistical Software*, 108(6). [https://doi.org/10.18637/jss.v108.i06](https://doi.org/10.18637/jss.v108.i06).
+
+-   **K. Hunter**, M. Glickman, L. Campos. (2022). Inferring medication adherence from time-varying health measures. *Statistics in Medicine*, 41(12). [https://doi.org/10.1002/sim.9351](https://doi.org/10.1002/sim.9351).
 
 -   L. Campos, M. Glickman, **K. Hunter**. (2021). Measuring effects of medication adherence on near-term time-varying health outcomes using marginal Bayesian dynamic linear models. *Biostatistics*, 22(3). [https://doi.org/10.1093/biostatistics/kxz059](https://doi.org/10.1093/biostatistics/kxz059%5D).
+
+
