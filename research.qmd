@@ -8,7 +8,7 @@ title: "Research"
 
 My methodological expertise mainly lies is in causal inference: the design and analysis of experiments and observational studies. I am also interested in applied Bayesian analysis and statistical software. Applications of my research have included healthcare, genetics, education, energy, and basic science.
 
-My future research agenda is to apply causal inference methods to problems in environmental science and climate change. I am actively seeking projects in this area. If you would like to collaborate, please reach out. I am eager to work with quantitative researchers, scientists, engineers, policy makers, or others who have problems where I can contribute statistical expertise.
+My future research agenda is to apply causal inference methods to problems in environmental science, policy, and climate change. I am actively seeking projects in this area. If you would like to collaborate, please reach out. I am eager to work with quantitative researchers, scientists, engineers, policy makers, or others who have problems where I can contribute statistical expertise.
 
 # Works in progress
 
